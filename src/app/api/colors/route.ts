@@ -1,4 +1,4 @@
-import { Color } from '@/types/color';
+import { Color } from '@/types';
 import { NextResponse } from 'next/server';
 
 const colors: Color[] = [
